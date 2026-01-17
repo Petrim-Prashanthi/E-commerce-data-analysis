@@ -47,9 +47,7 @@ The goal of this project is to demonstrate **practical data analysis skills**, i
 
 ## Visualizations
 
-### Monthly Sales Trend
-
-Interactive line chart showing total sales aggregated by month[Screenshots/SalestoprofitineachSegment.png]
+![MonthlySalesAnalysis](Screenshots/monthlySalesAnalysis.png)
 
 
 > ⚠️ **Note:**
