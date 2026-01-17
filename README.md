@@ -38,10 +38,10 @@ The goal of this project is to demonstrate **practical data analysis skills**, i
 
 ---
 ## Insights
-> Maximum number of sales occurred in November.
-> Technology category generates the highest revenue, but Furniture shows lower profit margins.
-> Certain sub-categories have high sales but low profitability, indicating cost inefficiencies.
-> Corporate segment contributes significantly to profit compared to other customer segments.
+* Maximum number of sales occurred in November.
+* Technology category generates the highest revenue, but Furniture shows lower profit margins.
+* Certain sub-categories have high sales but low profitability, indicating cost inefficiencies.
+* Corporate segment contributes significantly to profit compared to other customer segments.
 
 ----
 
@@ -49,7 +49,7 @@ The goal of this project is to demonstrate **practical data analysis skills**, i
 
 ### Monthly Sales Trend
 
-Interactive line chart showing total sales aggregated by month
+Interactive line chart showing total sales aggregated by month[Screenshots/SalestoprofitineachSegment.png]
 
 
 > ⚠️ **Note:**
