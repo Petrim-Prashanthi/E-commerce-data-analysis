@@ -1,6 +1,6 @@
 # 📊 E-Commerce Sales Analysis (EDA Project)
 
-## 🔍 Project Overview
+## Project Overview
 
 This project focuses on **Exploratory Data Analysis (EDA)** of an E-commerce sales dataset to uncover meaningful insights into **sales performance and monthly trends**.
 Using **Python, Pandas, and Plotly**, the analysis highlights how sales evolve over time through clean data processing and interactive visualizations.
@@ -9,7 +9,7 @@ The goal of this project is to demonstrate **practical data analysis skills**, i
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 * Analyze overall sales performance of the E-commerce platform
 * Identify and interpret **monthly sales trends**
@@ -19,7 +19,7 @@ The goal of this project is to demonstrate **practical data analysis skills**, i
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * **Python**
 * **Pandas** – Data manipulation & aggregation
@@ -28,7 +28,7 @@ The goal of this project is to demonstrate **practical data analysis skills**, i
 
 ---
 
-## 📈 Analysis Performed
+## Analysis Performed
 
 * Cleaned and preprocessed raw sales data
 * Extracted **Order Month** from order dates
@@ -37,8 +37,15 @@ The goal of this project is to demonstrate **practical data analysis skills**, i
 * Visualized trends using **interactive Plotly line charts**
 
 ---
+## Insights
+> Maximum number of sales occurred in November.
+> Technology category generates the highest revenue, but Furniture shows lower profit margins.
+> Certain sub-categories have high sales but low profitability, indicating cost inefficiencies.
+> Corporate segment contributes significantly to profit compared to other customer segments.
 
-## 📊 Visualizations
+----
+
+## Visualizations
 
 ### Monthly Sales Trend
 
