@@ -37,11 +37,12 @@ The goal of this project is to demonstrate **practical data analysis skills**, i
 * Visualized trends using **interactive Plotly line charts**
 
 ---
+
 ## Insights
-* Maximum number of sales occurred in November.
-* Technology category generates the highest revenue, but Furniture shows lower profit margins.
-* Certain sub-categories have high sales but low profitability, indicating cost inefficiencies.
-* Corporate segment contributes significantly to profit compared to other customer segments.
+* Sales peaked in November, indicating strong seasonal demand.
+* Technology category yields highest revenue, while Furniture has low profit margins.
+* Some sub-categories show high sales but low profitability, suggesting cost or pricing issues.
+* The Corporate segment contributes more to profit than others.
 
 ----
 
@@ -61,8 +62,6 @@ The goal of this project is to demonstrate **practical data analysis skills**, i
 > Please run the notebook locally to explore the **fully interactive charts**.
 
 ---
-
-
 
 ## 🚀 How to Run the Project
 
