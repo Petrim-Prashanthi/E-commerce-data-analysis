@@ -42,7 +42,8 @@ The goal of this project is to demonstrate **practical data analysis skills**, i
 
 ### Monthly Sales Trend
 
-Interactive line chart showing total sales aggregated by month.
+Interactive line chart showing total sales aggregated by month
+
 
 > ⚠️ **Note:**
 > Plotly visualizations may not render in GitHub’s notebook preview.
