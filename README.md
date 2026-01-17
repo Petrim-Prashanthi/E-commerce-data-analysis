@@ -48,6 +48,12 @@ The goal of this project is to demonstrate **practical data analysis skills**, i
 ## Visualizations
 
 ![MonthlySalesAnalysis](Screenshots/monthlySalesAnalysis.png)
+![MonthlyProfitAnalysis](Screenshots/monthlyProfitAnalysis.png)
+![ProfitAnalysisByCategory](Screenshots/profitAnalysisByCategory.png)
+![ProfitAnalysisBySubCategory](Screenshots/profitAnalysisBySubCategory.png)
+![SalesAnalysisByCategory](Screenshots/salesAnalysisByCategory.png)
+![SalesAnalysisBySubCategory](Screenshots/salesAnalysisBySubCategory.png)
+![Salestoprofitineachsegment](Screenshots/SalestoprofitineachSegment.png)
 
 
 > ⚠️ **Note:**
