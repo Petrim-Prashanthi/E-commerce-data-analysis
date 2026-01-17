@@ -1,52 +1,98 @@
-# E-Commerce Sales Analysis
-# Overview
-This project performs Exploratory Data Analysis (EDA) on an E-commerce sales dataset to understand sales trends over time.
-Using Python, Pandas, and Plotly, the project analyzes monthly sales performance and visualizes insights through interactive charts.
+# 📊 E-Commerce Sales Analysis (EDA Project)
 
-# Objectives
-Analyze overall sales performance
-Identify monthly sales trends
-Practice data cleaning and aggregation
-Create interactive visualizations using Plotly
+## 🔍 Project Overview
 
-# Tech Stack
-Python
-Pandas
-Plotly
-Jupyter Notebook
+This project focuses on **Exploratory Data Analysis (EDA)** of an E-commerce sales dataset to uncover meaningful insights into **sales performance and monthly trends**.
+Using **Python, Pandas, and Plotly**, the analysis highlights how sales evolve over time through clean data processing and interactive visualizations.
 
-# Analysis Performed
-Data preprocessing and cleaning
-Grouping sales data by Order Month
-Aggregating total sales using Pandas
-Visualizing monthly sales trends with Plotly line charts
+The goal of this project is to demonstrate **practical data analysis skills**, including data cleaning, aggregation, and storytelling through visual insights.
 
-# Visualization
+---
 
-Monthly Sales Analysis using interactive Plotly graphs
+## 🎯 Objectives
 
-# Note:
-Plotly visualizations may not render in GitHub preview.
-Please run the notebook locally to view interactive charts.
+* Analyze overall sales performance of the E-commerce platform
+* Identify and interpret **monthly sales trends**
+* Perform data cleaning and aggregation using Pandas
+* Build **interactive time-series visualizations** using Plotly
+* Strengthen hands-on EDA and data visualization skills
 
-# How to Run
-Clone the repository:
+---
+
+## 🛠️ Tech Stack
+
+* **Python**
+* **Pandas** – Data manipulation & aggregation
+* **Plotly** – Interactive data visualization
+* **Jupyter Notebook**
+
+---
+
+## 📈 Analysis Performed
+
+* Cleaned and preprocessed raw sales data
+* Extracted **Order Month** from order dates
+* Grouped sales data by month using Pandas
+* Aggregated total monthly sales
+* Visualized trends using **interactive Plotly line charts**
+
+---
+
+## 📊 Visualizations
+
+### Monthly Sales Trend
+
+Interactive line chart showing total sales aggregated by month.
+
+> ⚠️ **Note:**
+> Plotly visualizations may not render in GitHub’s notebook preview.
+> Please run the notebook locally to explore the **fully interactive charts**.
+
+---
+
+
+
+## 🚀 How to Run the Project
+
+1. **Clone the repository**
+
+```bash
 git clone <repo-link>
+```
 
-Install dependencies:
+2. **Install dependencies**
+
+```bash
 pip install pandas plotly
+```
 
-Open the notebook:
+3. **Open the notebook**
+
+```bash
 jupyter notebook
+```
 
-Run all cells.
+4. **Run all cells** to view the analysis and interactive charts.
 
-# Key Learnings
-Hands-on experience with EDA
-Time-series sales analysis
-Interactive data visualization
-Portfolio-ready data analysis project
+---
 
-# Author
-Petrim Prashanthi
-Aspiring Data Analyst | Python | SQL | Excel | Data Visualization
+## 💡 Key Learnings
+
+* Hands-on experience with **Exploratory Data Analysis (EDA)**
+* Practical understanding of **time-series sales analysis**
+* Improved skills in **data aggregation using Pandas**
+* Experience creating **interactive visualizations with Plotly**
+* Built a **portfolio-ready data analysis project**
+
+---
+
+## 👤 Author
+
+**Petrim Prashanthi**
+Aspiring Data Analyst
+Python | SQL | Excel | Data Visualization
+
+📫 *Open to internships and entry-level data analyst opportunities*
+
+
+
